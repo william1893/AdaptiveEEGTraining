@@ -14,3 +14,16 @@ Video presentation @ https://www.youtube.com/watch?v=b3ycm1e5eQY
 - In Chrome from chrome://extension, enable developer function -> Load Unpacked extension -> select project folder -> Active (To see console right click on the opened window -> inspect)
 
 # OR Install directly the Packed Chrome App
+
+# Rest-API server ( for storing data)
+
+- Clone git repo https://github.com/william1893/Rest-API.git in a different folder( not in the project folder) 
+
+Run the server separately with the project in a new terminal.
+
+First - npm install
+
+Then - node index
+
+The server is support by mongoDB maksure the mongoDB is working properly. 
+
